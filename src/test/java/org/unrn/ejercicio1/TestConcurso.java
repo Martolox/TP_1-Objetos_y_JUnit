@@ -1,4 +1,4 @@
-package org.unrn;
+package org.unrn.ejercicio1;
 
 import org.junit.jupiter.api.Test;
 
@@ -6,7 +6,7 @@ import java.time.LocalDate;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class Tests {
+public class TestConcurso {
 
     private Concurso c = new Concurso("Concurso 1",
             LocalDate.now().minusDays(1),

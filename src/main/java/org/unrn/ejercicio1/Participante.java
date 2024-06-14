@@ -1,4 +1,4 @@
-package org.unrn;
+package org.unrn.ejercicio1;
 
 public class Participante {
     private final String nombre;

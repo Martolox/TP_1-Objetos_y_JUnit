@@ -1,4 +1,4 @@
-package org.unrn;
+package org.unrn.ejercicio1;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
