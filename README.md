@@ -9,7 +9,7 @@
     - Covertura
 - Tests invariantes con fechas
 
-## 1. Sistema de Concursos
+## 1) Sistema de Concursos
 - El participante debe poder inscribirse a los concursos.
 - El concurso acepta la inscripción dentro del rango de fecha de inscripción
 - El participante gana puntos si se inscribe durante el primer día de abierta la inscripción.
@@ -19,7 +19,7 @@
 - Aseguro de invariantes (condición que debe mantenerse verdadera). Consideración de fechas en tests.
 - Verificación de cobertura y funcionalidades sin testear.
 
-## 2. Sistema de Concursos
+## 2) Costes en Restaurante
 
 - Se calcula el costo consumido por cada mesa.
 - Menú con bebidas y platos principales con su precio.
